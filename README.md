@@ -3,6 +3,7 @@ Worklist is a project that aims to automate the job searching process to make ev
 
 # Demo
 Demo can be accessed at https://worklistui.herokuapp.com
+Click "Skip to demo" to see a quick preview of the work accomplished.
 
 # Source Code
 The source code for Worklist is currently in a private repository, as I may later want to monetize some of the ideas. 
